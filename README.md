@@ -1,4 +1,6 @@
 # merge-conflict
+# Practicing messing up
 
-I love this class
-you too slow
+I type 100 words per minute
+
+don't try
